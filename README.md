@@ -19,7 +19,7 @@
 
 #### **Ngôn ngữ lập trình & Khoa học dữ liệu**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,r,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 </p>
 
 #### **AI, Machine Learning & Frameworks**
