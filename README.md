@@ -29,7 +29,7 @@
 
 #### **Công cụ & Nền tảng**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
