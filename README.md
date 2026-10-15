@@ -10,7 +10,7 @@
 - 🌱 **Learning and developing skills in:** Artificial Intelligence, Data Science, and Machine Learning.
 - 💬 **Open to sharing and discussing:** Anything.
 - ⚡ **Personal interests:** Sports, listening to music, and traveling.
-✉️  You can contact me via sutheo7514@gmail.com
+- ✉️ You can contact me via sutheo7514@gmail.com
 
 ---
 
