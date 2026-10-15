@@ -1,17 +1,16 @@
 # Hi there, I'm Nguyễn Hữu Thắng 👋
 ### 🚀 Future AI Engineer & Software Engineer | Lifelong Learner
 
-<p align="left">
-  <a href="mailto:sutheo7514@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 ---
 
 ### 💡 About Me
+- 🌍 I'm based in Viet Nam
+- 👨‍🎓 Studied at Hung Vuong University (DHV)
 - 🔭 **Currently focusing on:** Software design, Data Science, and Artificial Intelligence.
 - 🌱 **Learning and developing skills in:** Artificial Intelligence, Data Science, and Machine Learning.
 - 💬 **Open to sharing and discussing:** Anything.
 - ⚡ **Personal interests:** Sports, listening to music, and traveling.
+✉️  You can contact me via sutheo7514@gmail.com
 
 ---
 
